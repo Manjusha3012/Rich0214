@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9327" started-at="2022-02-21T12:54:02 PST" finished-at="2022-02-21T12:54:11 PST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9327" started-at="2022-02-21T12:54:02 PST" finished-at="2022-02-21T12:54:11 PST">
+      <class name="variousConcepts.LoginTestDifferentBrowser">
+        <test-method status="PASS" signature="init()[pri:0, instance:variousConcepts.LoginTestDifferentBrowser@2781e022]" name="init" is-config="true" duration-ms="6593" started-at="2022-02-21T12:54:02 PST" finished-at="2022-02-21T12:54:09 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:variousConcepts.LoginTestDifferentBrowser@2781e022]" name="loginTest" duration-ms="1860" started-at="2022-02-21T12:54:09 PST" finished-at="2022-02-21T12:54:11 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:variousConcepts.LoginTestDifferentBrowser@2781e022]" name="tearDown" is-config="true" duration-ms="830" started-at="2022-02-21T12:54:11 PST" finished-at="2022-02-21T12:54:11 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- variousConcepts.LoginTestDifferentBrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
